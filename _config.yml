@@ -21,7 +21,7 @@ repository               : "https://github.com/carteruh"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "IMG_1466.png"
   name             : "Carter Ung"
   pronouns         : # example: "she/her"  
   bio              : "Computer Vision Researcher"
