@@ -12,7 +12,7 @@ title                    : "Carter Ung"
 title_separator          : "-"
 name                     : &name "Carter Ung"
 description              : &description "Undergraduate Student in Computer Science and Biomedical Engineering at University of Houston"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://carteruh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/carteruh"
 
@@ -23,7 +23,7 @@ github: [metadata]
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pic.jpeg"
+  avatar           : "profile.png"
   name             : "Carter Ung"
   pronouns         : "He/Him"  
   bio              : "Computer Vision Researcher"
