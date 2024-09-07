@@ -85,8 +85,9 @@ Publications & Writings
 
 Awards 
 ======
+* Provost Undergraduate Research Scholar
 * Brookshire Scholar
-* Regan Endwoment Scholar
+* Regan Endowment Scholar
 * Roy & Lillie Scholar
 * SASE Chevron National Scholar
 * Goldwater Nominee
