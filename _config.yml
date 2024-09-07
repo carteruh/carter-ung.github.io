@@ -23,7 +23,7 @@ github: [metadata]
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "IMG_5912.jpg"
   name             : "Carter Ung"
   pronouns         : "He/Him"  
   bio              : "Computer Vision Researcher"
@@ -243,7 +243,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _publications
   - scope:

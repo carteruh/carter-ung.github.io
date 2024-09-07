@@ -11,54 +11,86 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Science & Biomedical Engineering, University of Houston, December 2024
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* March 2024: Student Researcher
+  * Institution: University of Washington
+  * 3D Reconstruction of Articulated Objects for Real-to-Sim-to-Real Applications
+  * Research Group: **Personal Robotics Lab**
+  * Mentor: **Helen Wang**
+  * Principal Investigator: **Dr. Siddhartha Srinivasa/Dr. Dieter Fox**
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* November 2022: Student Researcher
+  * Institution: University of Houston
+  * Pose Analysis for Quality Assessment in Face Recognition Applications
+  * Research Group: **Quantitative Imaging Lab**
+  * Principal Investigator: **Dr. Shishir Shah**
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* March 2021: Student Researcher 
+  * Institution: University of Houston
+  * Stimulating Neural Activity via Gamification in Neural Assessments
+  * Research Group: **Clinical Neural Engineering lab**
+  * Principal Investigator: **Dr. Nuri Ince**
+
+Work Experience
+======
+* Summer 2024: Software Engineering Intern
+  * **Microsoft** 
+  * Service Excellence and DDOS Protection for Office AI
+  * Manager: David Das
+
+* Summer 2023: Sofware Development Engineering Intern
+  * **Amazon Web Services**
+  * Frontend Platform for AWS Supply Chain - LLM Integration for AWS Supply Chain Help Center
+  * Manager: James Walton
+
+* Summer 2015: Data Software Engineer Intern
+  * **Northrop Grumman**
+  * Graph Network Application for Enterprise
+  * Manager: Caleb Stockton
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+* Machine Learning
+  * Image Processing
+  * Graphics
+  * Deep Learning
+* Software Engineering
+* Signal Processing
 
-Publications
+
+Publications & Writings
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
+    {% break %}
   {% endfor %}</ul>
+
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
+
+
+Awards 
+======
+* Brookshire Scholar
+* Regan Endwoment Scholar
+* Roy & Lillie Scholar
+* SASE Chevron National Scholar
+* Goldwater Nominee
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* President, VP, Historian for the Society of Asian Scientists and Engineers at University of Houston
