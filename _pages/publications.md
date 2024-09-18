@@ -11,7 +11,11 @@ author_profile: true
 
 {% include base_path %}
 
+{% assign counter = 0 %}
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-  {% break %}
+  {% assign counter = counter | plus: 1 %}
+  {% if counter == 2 %}
+    {% break %}
+  {% endif %}
 {% endfor %}
