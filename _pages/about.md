@@ -26,9 +26,9 @@ For work experience, I have spent my past three summers as a **software engineer
 May you have any questions or interest in collaboration please reach out to me at **ctung AT uh DOT edu**.
 
 ## News
-**October 2024** My research in pose-invariant face recognition was accepted to the **International Conference on Computer Vision Theory and Applications (VISAPP) 2025** as a **first-author** for publication.
+**December 2024** My research in pose-invariant face recognition was accepted to the **International Conference on Computer Vision Theory and Applications (VISAPP) 2025** as a **first-author** for publication.
 
-**October 2024** My research in pose-invariant face recognition was accepted at the  **Rice Gulf Coast Undergraduate Research Symposium (GCURS) 2025** where I will be giving an oral presentation.
+**November 2024** My research in pose-invariant face recognition was accepted and presented at the  **Rice Gulf Coast Undergraduate Research Symposium (GCURS) 2025** as an oral presentation.
 
 **June 2024** I was granted the **Provost Undergraduate Research Scholarship** to conduct a funded-semester of research to work on resolution effects on face recognition.
 
