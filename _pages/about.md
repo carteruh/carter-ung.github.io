@@ -44,7 +44,7 @@ May you have any questions or interest in collaboration please reach out to me a
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VISAPP 2025</div><img src='images/framework.png' alt="sym" height="120%" width="40%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VISAPP 2025</div><img src='images/framework.png' alt="sym" width="40%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Minimizing Number of Poses for Pose-invariant Face Recognition](https://drive.google.com/file/d/1Qm7FTqxCNTHF6C2OSZdDEVCh4CDFTgV4/view?usp=sharing)
