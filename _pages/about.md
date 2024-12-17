@@ -26,7 +26,7 @@ For work experience, I have spent my past three summers as a **software engineer
 May you have any questions or interest in collaboration please reach out to me at **ctung AT uh DOT edu**.
 
 ## News
-**October 2024** My research in pose-invariant face recognition is under submission to the **International Conference on Computer Vision Theory and Applications (VISAPP) 2025** as a **first-author** for publication.
+**October 2024** My research in pose-invariant face recognition was accepted to the **International Conference on Computer Vision Theory and Applications (VISAPP) 2025** as a **first-author** for publication.
 
 **October 2024** My research in pose-invariant face recognition was accepted at the  **Rice Gulf Coast Undergraduate Research Symposium (GCURS) 2025** where I will be giving an oral presentation.
 
@@ -41,4 +41,17 @@ May you have any questions or interest in collaboration please reach out to me a
 **March 2024** Presented at the University of Houston Undergraduate Research Day for **Pose-invariance in Face Recognition**. 
 
 **November 2022** I started my research assistantship at the **UH Quantitative Imaging Lab** advised by **Dr. Shishir Shah**.
+
+# 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VISAPP 2025</div><img src='images/framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Minimizing Number of Poses for Pose-invariant Face Recognition](https://drive.google.com/file/d/1Qm7FTqxCNTHF6C2OSZdDEVCh4CDFTgV4/view?usp=sharing)
+
+**Carter Ung**, Pranav Mantini, Shishir Shah
+
+- We introduce an empirical study that address data collection bottlenecks in practical face recognition systems. By studying the effect of model performance across varying pose sets, we infer the minimal number of poses to train and enroll in a face recognition system to achieve pose-invariant capability with less redundancy in data collection efforts.
+</div>
+</div>
 
